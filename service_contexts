@@ -35,6 +35,7 @@ DockObserver                              u:object_r:system_server_service:s0
 dreams                                    u:object_r:system_server_service:s0
 drm.drmManager                            u:object_r:drmserver_service:s0
 dropbox                                   u:object_r:system_server_service:s0
+edgegestureservice                        u:object_r:system_server_service:s0
 entropy                                   u:object_r:system_server_service:s0
 ethernet                                  u:object_r:system_server_service:s0
 fingerprint                               u:object_r:system_server_service:s0
